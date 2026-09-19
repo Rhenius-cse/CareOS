@@ -10,16 +10,16 @@ CareOS uses Vision AI to snap photos of prescriptions, simplifying them into pla
 ## 📸 App Screenshots
 
 ### 1. Family Dashboard
-![Dashboard](PASTE_DASHBOARD_IMAGE_LINK_HERE)
+![Dashboard](https://github.com/Rhenius-cse/CareOS/blob/main/Family%20dashboard.png?raw=true)
 
 ### 2. Camera Upload
-![Camera](PASTE_CAMERA_IMAGE_LINK_HERE)
+![Camera](https://github.com/Rhenius-cse/CareOS/blob/main/Camera%20upload.png?raw=true)
 
 ### 3. AI Report Simplifier (Tamil)
-![AI Report](PASTE_AI_REPORT_IMAGE_LINK_HERE)
+![AI Report](https://github.com/Rhenius-cse/CareOS/blob/main/AI%20Report%20Simplifier.png?raw=true)
 
 ### 4. Family Log
-![Family Log](PASTE_FAMILY_LOG_IMAGE_LINK_HERE)
+![Family Log](https://github.com/Rhenius-cse/CareOS/blob/main/Family%20log.png?raw=true)
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, Tailwind CSS
@@ -27,4 +27,4 @@ CareOS uses Vision AI to snap photos of prescriptions, simplifying them into pla
 - Database: Firebase (planned integration)
 
 ## 🎨 Design File
-[PASTE YOUR FIGMA LINK HERE]
+https://www.figma.com/make/WLgY7I2QHav59sBfsBVW3l/Design-CareOS-Home-Screen?t=sEy54FDLg47QBYCY-0
