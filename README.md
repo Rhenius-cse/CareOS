@@ -26,5 +26,11 @@ CareOS uses Vision AI to snap photos of prescriptions, simplifying them into pla
 - AI Engine: OpenAI GPT-4 Vision (planned integration)
 - Database: Firebase (planned integration)
 
+## ⚙️ Backend Repository Structure
+- `check_key.py`: API key validation
+- `requirements.txt`: Python dependencies
+- `.env.example`: Environment variables template
+- `BACKEND_README.md`: Detailed backend setup instructions
+
 ## 🎨 Design File
 https://www.figma.com/make/WLgY7I2QHav59sBfsBVW3l/Design-CareOS-Home-Screen?t=sEy54FDLg47QBYCY-0
